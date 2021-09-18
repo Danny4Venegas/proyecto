@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2196b7-fae5-481c-984b-424ea5aa72d3" name="Default Changelist" comment="" />
+    <list default="true" id="bd2196b7-fae5-481c-984b-424ea5aa72d3" name="Default Changelist" comment="calculadora">
+      <change beforePath="$PROJECT_DIR$/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.controller.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/01-NESTJS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,7 +40,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\AdminGamma\proyecto\node_modules\prettier" />
-    <property name="ts.external.directory.path" value="C:\Users\AdminGamma\proyecto\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\AdminGamma\Documents\Web\web-venegas-villavicencio-danny-esteban\proyecto\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,7 +60,16 @@
       <workItem from="1631537700296" duration="8621000" />
       <workItem from="1631823437629" duration="4655000" />
       <workItem from="1631830352556" duration="7476000" />
+      <workItem from="1631927536438" duration="153000" />
     </task>
+    <task id="LOCAL-00001" summary="calculadora">
+      <created>1631927592551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631927592551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +86,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculadora" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculadora" />
   </component>
   <component name="WindowStateProjectService">
     <state x="551" y="256" key="#ESLint" timestamp="1631831339948">

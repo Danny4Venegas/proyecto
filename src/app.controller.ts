@@ -24,7 +24,7 @@ export class AppController {
   getHello(): string {
     return this.appService.getHello();
   }
-  @Get('texto')
+  @Get('textohola')
   @HttpCode(200)
   helloText(): string {
     return 'Hola Texto';
